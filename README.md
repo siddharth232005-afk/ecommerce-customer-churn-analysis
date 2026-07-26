@@ -57,11 +57,6 @@ most strongly predict churn, enabling data-driven retention strategies.
 - **Single customers churn more** than Married customers (26.7% vs 11.5%)
 - **Tier 3 cities** show the highest churn (21.4%) compared to Tier 1 (14.5%)
 
-## Recommendations
-- Prioritize retention offers for customers within their first 6 months
-- Fast-track resolution of customer complaints — a major churn trigger
-- Investigate why mobile phone category buyers churn more (one-time buyers 
-  vs. habitual purchasers)
 
 ## Files
 - `Ecommerce_Churn_Analysis.ipynb` — Python cleaning & EDA notebook
@@ -70,5 +65,4 @@ most strongly predict churn, enabling data-driven retention strategies.
 - `cleaned_ecommerce_churn.csv` — cleaned dataset
 - `dashboard_screenshot.png` — screenshot of the Power BI dashboard
 
-## Author
-Siddharth — B.Tech Electrical Engineering, DTU
+
